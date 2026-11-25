@@ -195,6 +195,11 @@
           "id": "pos-importacao",
           "isFinal": false,
           "label": "PÓS IMPORTAÇÃO"
+        },
+        {
+          "id": "1795636898006",
+          "label": "DAIANE",
+          "isFinal": false
         }
       ],
       "minhasEtiquetas": [
