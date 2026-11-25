@@ -8,6 +8,7 @@
         { "id": "trein-usab", "label": "Treinamento - Usabilidade", "isFinal": false },
         { "id": "ativacao", "label": "Ativação de Canais", "isFinal": false },
         { "id": "remarcado", "label": "Remarcado", "isFinal": true },
+        { "id": "remarcado", "label": "Teste1", "isFinal": true },
         { "id": "cancelado", "label": "Cancelado", "isFinal": true },
         { "id": "pabx", "label": "PABX", "isFinal": false },
         { "id": "retrein", "label": "Retreinamento", "isFinal": false },
