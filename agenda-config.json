@@ -195,6 +195,16 @@
           "id": "pos-importacao",
           "isFinal": false,
           "label": "PÓS IMPORTAÇÃO"
+        },
+        {
+          "id": "1795636898006",
+          "isFinal": false,
+          "label": "DAIANE"
+        },
+        {
+          "id": "1795637413848",
+          "label": "teste",
+          "isFinal": false
         }
       ],
       "minhasEtiquetas": [
@@ -309,6 +319,11 @@
           "id": "1795635657746",
           "isFinal": false,
           "label": "teste"
+        },
+        {
+          "id": "1795635777097",
+          "isFinal": false,
+          "label": "Carine"
         }
       ],
       "minhasEtiquetas": [
