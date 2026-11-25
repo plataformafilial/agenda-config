@@ -307,13 +307,13 @@
         },
         {
           "id": "1795635657746",
-          "label": "teste",
-          "isFinal": false
+          "isFinal": false,
+          "label": "teste"
         },
         {
           "id": "1795635777097",
-          "label": "Carine",
-          "isFinal": false
+          "isFinal": false,
+          "label": "Carine"
         }
       ],
       "minhasEtiquetas": [
