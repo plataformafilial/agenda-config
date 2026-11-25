@@ -1,102 +1,380 @@
 {
   "productsData": {
-    "opaSuite": {
+    "inmap": {
       "etiquetasEmpresa": [
-        { "id": "kickoff", "label": "kickoff", "isFinal": false },
-        { "id": "trein-cfg", "label": "Treinamento - Configuração de Geral", "isFinal": false },
-        { "id": "trein-flux", "label": "Treinamento - Fluxo de comunicação", "isFinal": false },
-        { "id": "trein-usab", "label": "Treinamento - Usabilidade", "isFinal": false },
-        { "id": "ativacao", "label": "Ativação de Canais", "isFinal": false },
-        { "id": "remarcado", "label": "Remarcado", "isFinal": true },
-        { "id": "remarcado", "label": "Teste1", "isFinal": true },
-        { "id": "cancelado", "label": "Cancelado", "isFinal": true },
-        { "id": "pabx", "label": "PABX", "isFinal": false },
-        { "id": "retrein", "label": "Retreinamento", "isFinal": false },
-        { "id": "doc", "label": "Documentação", "isFinal": false }
+        {
+          "id": "fiber-cfg",
+          "isFinal": false,
+          "label": "Fiberdocs - Configurações"
+        },
+        {
+          "id": "fiber-filt",
+          "isFinal": false,
+          "label": "Fiberdocs - Filtros e Usabilidade"
+        },
+        {
+          "id": "fiber-des",
+          "isFinal": false,
+          "label": "Fiberdocs - Desenho e editor de fusões"
+        },
+        {
+          "id": "fiber-acomp",
+          "isFinal": false,
+          "label": "Fiberdocs - Acompanhamento"
+        },
+        {
+          "id": "sales-auto",
+          "isFinal": false,
+          "label": "Sales - Autoviabilidade"
+        },
+        {
+          "id": "sales-kanban-cfg",
+          "isFinal": false,
+          "label": "Sales - Configuração Quadro Kanban"
+        },
+        {
+          "id": "sales-kanban-usb",
+          "isFinal": false,
+          "label": "Sales - Usabilidade Quadro Kanban e App"
+        },
+        {
+          "id": "sales-filt",
+          "isFinal": false,
+          "label": "Sales - Filtros e Usabilidade"
+        },
+        {
+          "id": "sales-acomp",
+          "isFinal": false,
+          "label": "Sales - Acompanhamento"
+        },
+        {
+          "id": "serv-cfg",
+          "isFinal": false,
+          "label": "Service - Configurações"
+        },
+        {
+          "id": "serv-web",
+          "isFinal": false,
+          "label": "Service - Service Web"
+        },
+        {
+          "id": "serv-mob",
+          "isFinal": false,
+          "label": "Service - Service Mobile"
+        },
+        {
+          "id": "serv-acomp",
+          "isFinal": false,
+          "label": "Service - Acompanhamento"
+        }
       ],
       "minhasEtiquetas": [
-        { "id": "pessoal", "label": "Pessoal" },
-        { "id": "soft-day", "label": "Soft Day" },
-        { "id": "outros-ev", "label": "Outros eventos" },
-        { "id": "intervalo", "label": "Intervalo" },
-        { "id": "gin-laboral", "label": "Ginástica Laboral" },
-        { "id": "daily-sem", "label": "Daily ou Semanal" },
-        { "id": "nc-semanal", "label": "[Não compareceu] Semanal" },
-        { "id": "trein-int", "label": "Treinamentos internos" },
-        { "id": "reun-int", "label": "Reuniões internas" },
-        { "id": "capacit", "label": "Capacitações" },
-        { "id": "feedbacks", "label": "Feedbacks" },
-        { "id": "cursos", "label": "Cursos" }
+        {
+          "id": "pessoal",
+          "label": "Pessoal"
+        },
+        {
+          "id": "soft-day",
+          "label": "Soft Day"
+        },
+        {
+          "id": "doc",
+          "label": "Documentação"
+        },
+        {
+          "id": "outros-ev",
+          "label": "Outros eventos"
+        },
+        {
+          "id": "intervalo",
+          "label": "Intervalo"
+        },
+        {
+          "id": "gin-laboral",
+          "label": "Ginástica Laboral"
+        },
+        {
+          "id": "daily",
+          "label": "Daily"
+        },
+        {
+          "id": "trein-int",
+          "label": "Treinamentos internos"
+        },
+        {
+          "id": "reun-int",
+          "label": "Reuniões internas"
+        },
+        {
+          "id": "capacit",
+          "label": "Capacitações"
+        },
+        {
+          "id": "feedbacks",
+          "label": "Feedbacks"
+        },
+        {
+          "id": "cursos",
+          "label": "Cursos"
+        }
       ]
     },
     "ixcProvedor": {
       "etiquetasEmpresa": [
-        { "id": "onboarding", "label": "ONBOARDING", "isFinal": false },
-        { "id": "validacao", "label": "VALIDAÇÃO", "isFinal": false },
-        { "id": "kickoff", "label": "KICKOFF", "isFinal": false },
-        { "id": "trein-cadastros-gerais", "label": "TREINAMENTO - CADASTROS GERAIS", "isFinal": false },
-        { "id": "trein-integracoes", "label": "TREINAMENTO - INTEGRAÇÕES", "isFinal": false },
-        { "id": "trein-gestao-contratos", "label": "TREINAMENTO - GESTÃO DE CONTRATOS", "isFinal": false },
-        { "id": "trein-fin-faturas-receber", "label": "TREINAMENTO - FINANCEIRO FATURAS - CONTAR A RECEBER", "isFinal": false },
-        { "id": "trein-fin-receber", "label": "TREINAMENTO - FINANCEIRO - CONTAR A RECEBER", "isFinal": false },
-        { "id": "trein-fin-pagar", "label": "TREINAMENTO - FINANCEIRO - CONTAR A PAGAR", "isFinal": false },
-        { "id": "trein-estoque", "label": "TREINAMENTO - ESTOQUE", "isFinal": false },
-        { "id": "trein-atendimento-os", "label": "TREINAMENTO - ATENDIMENTO E ORDEM DE SERVIÇO", "isFinal": false },
-        { "id": "trein-fiscal", "label": "TREINAMENTO - FISCAL", "isFinal": false },
-        { "id": "importacao-teste", "label": "IMPORTAÇÃO TESTE", "isFinal": false },
-        { "id": "importacao-dados-final", "label": "IMPORTAÇÃO DE DADOS FINAL", "isFinal": false },
-        { "id": "pos-importacao", "label": "PÓS IMPORTAÇÃO", "isFinal": false }
+        {
+          "id": "onboarding",
+          "isFinal": false,
+          "label": "ONBOARDING"
+        },
+        {
+          "id": "validacao",
+          "isFinal": false,
+          "label": "VALIDAÇÃO"
+        },
+        {
+          "id": "kickoff",
+          "isFinal": false,
+          "label": "KICKOFF"
+        },
+        {
+          "id": "trein-cadastros-gerais",
+          "isFinal": false,
+          "label": "TREINAMENTO - CADASTROS GERAIS"
+        },
+        {
+          "id": "trein-integracoes",
+          "isFinal": false,
+          "label": "TREINAMENTO - INTEGRAÇÕES"
+        },
+        {
+          "id": "trein-gestao-contratos",
+          "isFinal": false,
+          "label": "TREINAMENTO - GESTÃO DE CONTRATOS"
+        },
+        {
+          "id": "trein-fin-faturas-receber",
+          "isFinal": false,
+          "label": "TREINAMENTO - FINANCEIRO FATURAS - CONTAR A RECEBER"
+        },
+        {
+          "id": "trein-fin-receber",
+          "isFinal": false,
+          "label": "TREINAMENTO - FINANCEIRO - CONTAR A RECEBER"
+        },
+        {
+          "id": "trein-fin-pagar",
+          "isFinal": false,
+          "label": "TREINAMENTO - FINANCEIRO - CONTAR A PAGAR"
+        },
+        {
+          "id": "trein-estoque",
+          "isFinal": false,
+          "label": "TREINAMENTO - ESTOQUE"
+        },
+        {
+          "id": "trein-atendimento-os",
+          "isFinal": false,
+          "label": "TREINAMENTO - ATENDIMENTO E ORDEM DE SERVIÇO"
+        },
+        {
+          "id": "trein-fiscal",
+          "isFinal": false,
+          "label": "TREINAMENTO - FISCAL"
+        },
+        {
+          "id": "importacao-teste",
+          "isFinal": false,
+          "label": "IMPORTAÇÃO TESTE"
+        },
+        {
+          "id": "importacao-dados-final",
+          "isFinal": false,
+          "label": "IMPORTAÇÃO DE DADOS FINAL"
+        },
+        {
+          "id": "pos-importacao",
+          "isFinal": false,
+          "label": "PÓS IMPORTAÇÃO"
+        }
       ],
       "minhasEtiquetas": [
-        { "id": "soft-day", "label": "Soft Day" },
-        { "id": "doc", "label": "Documentação" },
-        { "id": "outros-ev", "label": "Outros eventos" },
-        { "id": "intervalo", "label": "Intervalo" },
-        { "id": "gin-laboral", "label": "Ginástica Laboral" },
-        { "id": "folga", "label": "Folga" },
-        { "id": "feriado", "label": "Feriado" },
-        { "id": "reun-int", "label": "Reuniões internas" },
-        { "id": "capacit", "label": "Capacitações" },
-        { "id": "feedbacks", "label": "Feedbacks" },
-        { "id": "cursos", "label": "Cursos" },
-        { "id": "daily", "label": "Daily" }
+        {
+          "id": "soft-day",
+          "label": "Soft Day"
+        },
+        {
+          "id": "doc",
+          "label": "Documentação"
+        },
+        {
+          "id": "outros-ev",
+          "label": "Outros eventos"
+        },
+        {
+          "id": "intervalo",
+          "label": "Intervalo"
+        },
+        {
+          "id": "gin-laboral",
+          "label": "Ginástica Laboral"
+        },
+        {
+          "id": "folga",
+          "label": "Folga"
+        },
+        {
+          "id": "feriado",
+          "label": "Feriado"
+        },
+        {
+          "id": "reun-int",
+          "label": "Reuniões internas"
+        },
+        {
+          "id": "capacit",
+          "label": "Capacitações"
+        },
+        {
+          "id": "feedbacks",
+          "label": "Feedbacks"
+        },
+        {
+          "id": "cursos",
+          "label": "Cursos"
+        },
+        {
+          "id": "daily",
+          "label": "Daily"
+        }
       ]
     },
-    "inmap": {
+    "opaSuite": {
       "etiquetasEmpresa": [
-        { "id": "fiber-cfg", "label": "Fiberdocs - Configurações", "isFinal": false },
-        { "id": "fiber-filt", "label": "Fiberdocs - Filtros e Usabilidade", "isFinal": false },
-        { "id": "fiber-des", "label": "Fiberdocs - Desenho e editor de fusões", "isFinal": false },
-        { "id": "fiber-acomp", "label": "Fiberdocs - Acompanhamento", "isFinal": false },
-        { "id": "sales-auto", "label": "Sales - Autoviabilidade", "isFinal": false },
-        { "id": "sales-kanban-cfg", "label": "Sales - Configuração Quadro Kanban", "isFinal": false },
-        { "id": "sales-kanban-usb", "label": "Sales - Usabilidade Quadro Kanban e App", "isFinal": false },
-        { "id": "sales-filt", "label": "Sales - Filtros e Usabilidade", "isFinal": false },
-        { "id": "sales-acomp", "label": "Sales - Acompanhamento", "isFinal": false },
-        { "id": "serv-cfg", "label": "Service - Configurações", "isFinal": false },
-        { "id": "serv-web", "label": "Service - Service Web", "isFinal": false },
-        { "id": "serv-mob", "label": "Service - Service Mobile", "isFinal": false },
-        { "id": "serv-acomp", "label": "Service - Acompanhamento", "isFinal": false }
+        {
+          "id": "kickoff",
+          "isFinal": false,
+          "label": "kickoff"
+        },
+        {
+          "id": "trein-cfg",
+          "isFinal": false,
+          "label": "Treinamento - Configuração de Geral"
+        },
+        {
+          "id": "trein-flux",
+          "isFinal": false,
+          "label": "Treinamento - Fluxo de comunicação"
+        },
+        {
+          "id": "trein-usab",
+          "isFinal": false,
+          "label": "Treinamento - Usabilidade"
+        },
+        {
+          "id": "ativacao",
+          "isFinal": false,
+          "label": "Ativação de Canais"
+        },
+        {
+          "id": "remarcado",
+          "isFinal": true,
+          "label": "Remarcado"
+        },
+        {
+          "id": "remarcado",
+          "isFinal": true,
+          "label": "Teste1"
+        },
+        {
+          "id": "cancelado",
+          "isFinal": true,
+          "label": "Cancelado"
+        },
+        {
+          "id": "pabx",
+          "isFinal": false,
+          "label": "PABX"
+        },
+        {
+          "id": "retrein",
+          "isFinal": false,
+          "label": "Retreinamento"
+        },
+        {
+          "id": "doc",
+          "isFinal": false,
+          "label": "Documentação"
+        },
+        {
+          "id": "1795635657746",
+          "label": "teste",
+          "isFinal": false
+        }
       ],
       "minhasEtiquetas": [
-        { "id": "pessoal", "label": "Pessoal" },
-        { "id": "soft-day", "label": "Soft Day" },
-        { "id": "doc", "label": "Documentação" },
-        { "id": "outros-ev", "label": "Outros eventos" },
-        { "id": "intervalo", "label": "Intervalo" },
-        { "id": "gin-laboral", "label": "Ginástica Laboral" },
-        { "id": "daily", "label": "Daily" },
-        { "id": "trein-int", "label": "Treinamentos internos" },
-        { "id": "reun-int", "label": "Reuniões internas" },
-        { "id": "capacit", "label": "Capacitações" },
-        { "id": "feedbacks", "label": "Feedbacks" },
-        { "id": "cursos", "label": "Cursos" }
+        {
+          "id": "pessoal",
+          "label": "Pessoal"
+        },
+        {
+          "id": "soft-day",
+          "label": "Soft Day"
+        },
+        {
+          "id": "outros-ev",
+          "label": "Outros eventos"
+        },
+        {
+          "id": "intervalo",
+          "label": "Intervalo"
+        },
+        {
+          "id": "gin-laboral",
+          "label": "Ginástica Laboral"
+        },
+        {
+          "id": "daily-sem",
+          "label": "Daily ou Semanal"
+        },
+        {
+          "id": "nc-semanal",
+          "label": "[Não compareceu] Semanal"
+        },
+        {
+          "id": "trein-int",
+          "label": "Treinamentos internos"
+        },
+        {
+          "id": "reun-int",
+          "label": "Reuniões internas"
+        },
+        {
+          "id": "capacit",
+          "label": "Capacitações"
+        },
+        {
+          "id": "feedbacks",
+          "label": "Feedbacks"
+        },
+        {
+          "id": "cursos",
+          "label": "Cursos"
+        }
       ]
     }
   },
   "eventualidades": [
-    { "id": "nao-compareceu", "label": "NÃO COMPARECEU" },
-    { "id": "cancelado", "label": "CANCELADO" },
-    { "id": "reagendado", "label": "REAGENDADO" }
+    {
+      "id": "nao-compareceu",
+      "label": "NÃO COMPARECEU"
+    },
+    {
+      "id": "cancelado",
+      "label": "CANCELADO"
+    },
+    {
+      "id": "reagendado",
+      "label": "REAGENDADO"
+    }
   ]
 }
