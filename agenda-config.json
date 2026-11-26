@@ -490,6 +490,11 @@
         {
           "id": "daily",
           "label": "Daily"
+        },
+        {
+          "id": "1795704386480",
+          "label": "Diogo",
+          "isFinal": false
         }
       ]
     },
