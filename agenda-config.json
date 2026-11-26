@@ -148,298 +148,298 @@
         },
         {
           "id": "1795702132950",
-          "label": "TREINAMENTO – CADASTROS GERAIS",
-          "isFinal": false
+          "isFinal": false,
+          "label": "TREINAMENTO – CADASTROS GERAIS"
         },
         {
           "id": "1795702138222",
-          "label": "TREINAMENTO – INTEGRAÇÕES",
-          "isFinal": false
+          "isFinal": false,
+          "label": "TREINAMENTO – INTEGRAÇÕES"
         },
         {
           "id": "1795702144734",
-          "label": "TREINAMENTO – GESTÃO DE CONTRATOS",
-          "isFinal": false
+          "isFinal": false,
+          "label": "TREINAMENTO – GESTÃO DE CONTRATOS"
         },
         {
           "id": "1795702151294",
-          "label": "TREINAMENTO – FINANCEIRO FATURAS – CONTAS A RECEBER",
-          "isFinal": false
+          "isFinal": false,
+          "label": "TREINAMENTO – FINANCEIRO FATURAS – CONTAS A RECEBER"
         },
         {
           "id": "1795702156446",
-          "label": "TREINAMENTO – CONTAS A PAGAR",
-          "isFinal": false
+          "isFinal": false,
+          "label": "TREINAMENTO – CONTAS A PAGAR"
         },
         {
           "id": "1795702161654",
-          "label": "TREINAMENTO – ESTOQUE",
-          "isFinal": false
+          "isFinal": false,
+          "label": "TREINAMENTO – ESTOQUE"
         },
         {
           "id": "1795702172078",
-          "label": "TREINAMENTO – ATENDIMENTO E ORDEM DE SERVIÇO",
-          "isFinal": false
+          "isFinal": false,
+          "label": "TREINAMENTO – ATENDIMENTO E ORDEM DE SERVIÇO"
         },
         {
           "id": "1795702176870",
-          "label": "TREINAMENTO – FISCAL",
-          "isFinal": false
+          "isFinal": false,
+          "label": "TREINAMENTO – FISCAL"
         },
         {
           "id": "1795702182694",
-          "label": "TREINAMENTO – REUNIÃO PRÉ IMPORTAÇÃO",
-          "isFinal": false
+          "isFinal": false,
+          "label": "TREINAMENTO – REUNIÃO PRÉ IMPORTAÇÃO"
         },
         {
           "id": "1795702188830",
-          "label": "TREINAMENTO - FIBERDOCS - CONFIGURAÇÕES",
-          "isFinal": false
+          "isFinal": false,
+          "label": "TREINAMENTO - FIBERDOCS - CONFIGURAÇÕES"
         },
         {
           "id": "1795702195134",
-          "label": "TREINAMENTO - FIBERDOCS - FILTROS E USABILIDADE",
-          "isFinal": false
+          "isFinal": false,
+          "label": "TREINAMENTO - FIBERDOCS - FILTROS E USABILIDADE"
         },
         {
           "id": "1795702201718",
-          "label": "TREINAMENTO - FIBERDOCS - DESENHO E EDITOR DE FUSÕES",
-          "isFinal": false
+          "isFinal": false,
+          "label": "TREINAMENTO - FIBERDOCS - DESENHO E EDITOR DE FUSÕES"
         },
         {
           "id": "1795702206566",
-          "label": "TREINAMENTO - SALES - AUTOVIABILIDADE",
-          "isFinal": false
+          "isFinal": false,
+          "label": "TREINAMENTO - SALES - AUTOVIABILIDADE"
         },
         {
           "id": "1795702212831",
-          "label": "TREINAMENTO - SALES - CONFIGURAÇÃO QUADRO KANBAN",
-          "isFinal": false
+          "isFinal": false,
+          "label": "TREINAMENTO - SALES - CONFIGURAÇÃO QUADRO KANBAN"
         },
         {
           "id": "1795702223103",
-          "label": "TREINAMENTO - SALES - USABILIDADE QUADRO KANBAN E APP",
-          "isFinal": false
+          "isFinal": false,
+          "label": "TREINAMENTO - SALES - USABILIDADE QUADRO KANBAN E APP"
         },
         {
           "id": "1795702229022",
-          "label": "TREINAMENTO - SALES - FILTROS E USABILIDADE",
-          "isFinal": false
+          "isFinal": false,
+          "label": "TREINAMENTO - SALES - FILTROS E USABILIDADE"
         },
         {
           "id": "1795702234583",
-          "label": "TREINAMENTO - SERVICE - CONFIGURAÇÕES",
-          "isFinal": false
+          "isFinal": false,
+          "label": "TREINAMENTO - SERVICE - CONFIGURAÇÕES"
         },
         {
           "id": "1795702240055",
-          "label": "TREINAMENTO - SERVICE - SERVICE WEB",
-          "isFinal": false
+          "isFinal": false,
+          "label": "TREINAMENTO - SERVICE - SERVICE WEB"
         },
         {
           "id": "1795702247398",
-          "label": "TREINAMENTO - SERVICE - SERVICE MOBILE",
-          "isFinal": false
+          "isFinal": false,
+          "label": "TREINAMENTO - SERVICE - SERVICE MOBILE"
         },
         {
           "id": "1795702259702",
-          "label": "PÓS IMPORTAÇÃO - IXC PROVEDOR",
-          "isFinal": false
+          "isFinal": false,
+          "label": "PÓS IMPORTAÇÃO - IXC PROVEDOR"
         },
         {
           "id": "1795702269183",
-          "label": "PÓS IMPORTAÇÃO - FIBERDOCS",
-          "isFinal": false
+          "isFinal": false,
+          "label": "PÓS IMPORTAÇÃO - FIBERDOCS"
         },
         {
           "id": "1795702282703",
-          "label": "PÓS IMPLANTAÇÃO - FIBERDOCS",
-          "isFinal": false
+          "isFinal": false,
+          "label": "PÓS IMPLANTAÇÃO - FIBERDOCS"
         },
         {
           "id": "1795702300271",
-          "label": "PÓS IMPLANTAÇÃO - SALES",
-          "isFinal": false
+          "isFinal": false,
+          "label": "PÓS IMPLANTAÇÃO - SALES"
         },
         {
           "id": "1795702306175",
-          "label": "PÓS IMPLANTAÇÃO - SERVICE",
-          "isFinal": false
+          "isFinal": false,
+          "label": "PÓS IMPLANTAÇÃO - SERVICE"
         },
         {
           "id": "1795702405584",
-          "label": "VALIDAÇÃO - CADASTROS",
-          "isFinal": false
+          "isFinal": false,
+          "label": "VALIDAÇÃO - CADASTROS"
         },
         {
           "id": "1795702410983",
-          "label": "VALIDAÇÃO - CONTRATOS",
-          "isFinal": false
+          "isFinal": false,
+          "label": "VALIDAÇÃO - CONTRATOS"
         },
         {
           "id": "1795702512168",
-          "label": "VALIDAÇÃO - DASHBOARD",
-          "isFinal": false
+          "isFinal": false,
+          "label": "VALIDAÇÃO - DASHBOARD"
         },
         {
           "id": "1795702517088",
-          "label": "VALIDAÇÃO - ESTOQUE",
-          "isFinal": false
+          "isFinal": false,
+          "label": "VALIDAÇÃO - ESTOQUE"
         },
         {
           "id": "1795702535584",
-          "label": "VALIDAÇÃO - FINANCEIRO",
-          "isFinal": false
+          "isFinal": false,
+          "label": "VALIDAÇÃO - FINANCEIRO"
         },
         {
           "id": "1795702552184",
-          "label": "VALIDAÇÃO - FISCAL",
-          "isFinal": false
+          "isFinal": false,
+          "label": "VALIDAÇÃO - FISCAL"
         },
         {
           "id": "1795702558808",
-          "label": "VALIDAÇÃO – INTEGRAÇÕES",
-          "isFinal": false
+          "isFinal": false,
+          "label": "VALIDAÇÃO – INTEGRAÇÕES"
         },
         {
           "id": "1795702563800",
-          "label": "VALIDAÇÃO – ATENDIMENTO/ORDEM DE SERVIÇO",
-          "isFinal": false
+          "isFinal": false,
+          "label": "VALIDAÇÃO – ATENDIMENTO/ORDEM DE SERVIÇO"
         },
         {
           "id": "1795702568680",
-          "label": "VALIDAÇÃO - PROCESSOS",
-          "isFinal": false
+          "isFinal": false,
+          "label": "VALIDAÇÃO - PROCESSOS"
         },
         {
           "id": "1795702574832",
-          "label": "VALIDAÇÃO - RELATÓRIOS",
-          "isFinal": false
+          "isFinal": false,
+          "label": "VALIDAÇÃO - RELATÓRIOS"
         },
         {
           "id": "1795702636577",
-          "label": "VALIDAÇÃO – LOGINS",
-          "isFinal": false
+          "isFinal": false,
+          "label": "VALIDAÇÃO – LOGINS"
         },
         {
           "id": "1795702643241",
-          "label": "VALIDAÇÃO - PATRIMÔNIOS",
-          "isFinal": false
+          "isFinal": false,
+          "label": "VALIDAÇÃO - PATRIMÔNIOS"
         },
         {
           "id": "1795702648458",
-          "label": "VALIDAÇÃO – COMODATOS",
-          "isFinal": false
+          "isFinal": false,
+          "label": "VALIDAÇÃO – COMODATOS"
         },
         {
           "id": "1795702658690",
-          "label": "VALIDAÇÃO - VENDAS",
-          "isFinal": false
+          "isFinal": false,
+          "label": "VALIDAÇÃO - VENDAS"
         },
         {
           "id": "1795702665729",
-          "label": "VALIDAÇÃO – ARQUIVOS",
-          "isFinal": false
+          "isFinal": false,
+          "label": "VALIDAÇÃO – ARQUIVOS"
         },
         {
           "id": "1795702671737",
-          "label": "VALIDAÇÃO - MAPAS",
-          "isFinal": false
+          "isFinal": false,
+          "label": "VALIDAÇÃO - MAPAS"
         },
         {
           "id": "1795702678665",
-          "label": "VALIDAÇÃO – CONTAS A PAGAR/PAGAS",
-          "isFinal": false
+          "isFinal": false,
+          "label": "VALIDAÇÃO – CONTAS A PAGAR/PAGAS"
         },
         {
           "id": "1795702687385",
-          "label": "VALIDAÇÃO – FORNECEDORES",
-          "isFinal": false
+          "isFinal": false,
+          "label": "VALIDAÇÃO – FORNECEDORES"
         },
         {
           "id": "1795702692436",
-          "label": "VALIDAÇÃO – PLANO DE VENDA/VELOCIDADE",
-          "isFinal": false
+          "isFinal": false,
+          "label": "VALIDAÇÃO – PLANO DE VENDA/VELOCIDADE"
         },
         {
           "id": "1795702697666",
-          "label": "VALIDAÇÃO – GERAL",
-          "isFinal": false
+          "isFinal": false,
+          "label": "VALIDAÇÃO – GERAL"
         },
         {
           "id": "1795702817948",
-          "label": "ACOMPANHAMENTO - FIBERDOCS",
-          "isFinal": false
+          "isFinal": false,
+          "label": "ACOMPANHAMENTO - FIBERDOCS"
         },
         {
           "id": "1795702827291",
-          "label": "ACOMPANHAMENTO - SALES",
-          "isFinal": false
+          "isFinal": false,
+          "label": "ACOMPANHAMENTO - SALES"
         },
         {
           "id": "1795702838227",
-          "label": "ACOMPANHAMENTO - SERVICE",
-          "isFinal": false
+          "isFinal": false,
+          "label": "ACOMPANHAMENTO - SERVICE"
         },
         {
           "id": "1795702845867",
-          "label": "AUDITORIA – ELABORAÇÃO DE AUDITORIA",
-          "isFinal": false
+          "isFinal": false,
+          "label": "AUDITORIA – ELABORAÇÃO DE AUDITORIA"
         },
         {
           "id": "1795702852987",
-          "label": "AUDITORIA – APRESENTAÇÃO DE AUDITORIA",
-          "isFinal": false
+          "isFinal": false,
+          "label": "AUDITORIA – APRESENTAÇÃO DE AUDITORIA"
         },
         {
           "id": "1795702861612",
-          "label": "CHAVE API - FIBERDOCS",
-          "isFinal": false
+          "isFinal": false,
+          "label": "CHAVE API - FIBERDOCS"
         },
         {
           "id": "1795702866251",
-          "label": "CHAVE API - SALES",
-          "isFinal": false
+          "isFinal": false,
+          "label": "CHAVE API - SALES"
         },
         {
           "id": "1795702871420",
-          "label": "CHAVE API - SERVICE",
-          "isFinal": false
+          "isFinal": false,
+          "label": "CHAVE API - SERVICE"
         },
         {
           "id": "1795702888309",
-          "label": "ACOMPANHAMENTO CLIENTE OPA",
-          "isFinal": false
+          "isFinal": false,
+          "label": "ACOMPANHAMENTO CLIENTE OPA"
         },
         {
           "id": "1795702898900",
-          "label": "ALINHA DE PROJETO/PERSPECTIVA",
-          "isFinal": false
+          "isFinal": false,
+          "label": "ALINHA DE PROJETO/PERSPECTIVA"
         },
         {
           "id": "1795702908668",
-          "label": "DOCUMENTAÇÃO",
-          "isFinal": false
+          "isFinal": false,
+          "label": "DOCUMENTAÇÃO"
         },
         {
           "id": "1795702915428",
-          "label": "ABERTURA DE CARTÕES – AJUSTE OFF",
-          "isFinal": false
+          "isFinal": false,
+          "label": "ABERTURA DE CARTÕES – AJUSTE OFF"
         },
         {
           "id": "1795702920652",
-          "label": "ABERTURA DE CARTÕES – FALHA IXC",
-          "isFinal": false
+          "isFinal": false,
+          "label": "ABERTURA DE CARTÕES – FALHA IXC"
         },
         {
           "id": "1795702926172",
-          "label": "ABERTURA DE CARTÕES - MELHORIAS IXC",
-          "isFinal": false
+          "isFinal": false,
+          "label": "ABERTURA DE CARTÕES - MELHORIAS IXC"
         },
         {
           "id": "1795702934053",
-          "label": "IMPORTAÇÃO TESTE",
-          "isFinal": false
+          "isFinal": false,
+          "label": "IMPORTAÇÃO TESTE"
         }
       ],
       "minhasEtiquetas": [
