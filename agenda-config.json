@@ -493,8 +493,8 @@
         },
         {
           "id": "1795704386480",
-          "label": "Diogo",
-          "isFinal": false
+          "isFinal": false,
+          "label": "Diogo"
         }
       ]
     },
@@ -614,6 +614,11 @@
         {
           "id": "cursos",
           "label": "Cursos"
+        },
+        {
+          "id": "1795714473928",
+          "isFinal": false,
+          "label": "Diogo Basílio"
         }
       ]
     }
