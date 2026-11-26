@@ -124,86 +124,321 @@
         {
           "id": "onboarding",
           "isFinal": false,
-          "label": "ONBOARDING"
+          "label": "ONBOARDING - IXC PROVEDOR"
         },
         {
           "id": "validacao",
           "isFinal": false,
-          "label": "VALIDAÇÃO"
+          "label": "ONBOARDING - SERVICE"
         },
         {
           "id": "kickoff",
           "isFinal": false,
-          "label": "KICKOFF"
+          "label": "ONBOARDING - SALES"
         },
         {
           "id": "trein-cadastros-gerais",
           "isFinal": false,
-          "label": "TREINAMENTO - CADASTROS GERAIS"
+          "label": "ONBOARDING - FIBERDOCS"
         },
         {
           "id": "trein-integracoes",
           "isFinal": false,
-          "label": "TREINAMENTO - INTEGRAÇÕES"
+          "label": "KICKOFF"
         },
         {
-          "id": "trein-gestao-contratos",
-          "isFinal": false,
-          "label": "TREINAMENTO - GESTÃO DE CONTRATOS"
+          "id": "1795702132950",
+          "label": "TREINAMENTO – CADASTROS GERAIS",
+          "isFinal": false
         },
         {
-          "id": "trein-fin-faturas-receber",
-          "isFinal": false,
-          "label": "TREINAMENTO - FINANCEIRO FATURAS - CONTAR A RECEBER"
+          "id": "1795702138222",
+          "label": "TREINAMENTO – INTEGRAÇÕES",
+          "isFinal": false
         },
         {
-          "id": "trein-fin-receber",
-          "isFinal": false,
-          "label": "TREINAMENTO - FINANCEIRO - CONTAR A RECEBER"
+          "id": "1795702144734",
+          "label": "TREINAMENTO – GESTÃO DE CONTRATOS",
+          "isFinal": false
         },
         {
-          "id": "trein-fin-pagar",
-          "isFinal": false,
-          "label": "TREINAMENTO - FINANCEIRO - CONTAR A PAGAR"
+          "id": "1795702151294",
+          "label": "TREINAMENTO – FINANCEIRO FATURAS – CONTAS A RECEBER",
+          "isFinal": false
         },
         {
-          "id": "trein-estoque",
-          "isFinal": false,
-          "label": "TREINAMENTO - ESTOQUE"
+          "id": "1795702156446",
+          "label": "TREINAMENTO – CONTAS A PAGAR",
+          "isFinal": false
         },
         {
-          "id": "trein-atendimento-os",
-          "isFinal": false,
-          "label": "TREINAMENTO - ATENDIMENTO E ORDEM DE SERVIÇO"
+          "id": "1795702161654",
+          "label": "TREINAMENTO – ESTOQUE",
+          "isFinal": false
         },
         {
-          "id": "trein-fiscal",
-          "isFinal": false,
-          "label": "TREINAMENTO - FISCAL"
+          "id": "1795702172078",
+          "label": "TREINAMENTO – ATENDIMENTO E ORDEM DE SERVIÇO",
+          "isFinal": false
         },
         {
-          "id": "importacao-teste",
-          "isFinal": false,
-          "label": "IMPORTAÇÃO TESTE"
+          "id": "1795702176870",
+          "label": "TREINAMENTO – FISCAL",
+          "isFinal": false
         },
         {
-          "id": "importacao-dados-final",
-          "isFinal": false,
-          "label": "IMPORTAÇÃO DE DADOS FINAL"
+          "id": "1795702182694",
+          "label": "TREINAMENTO – REUNIÃO PRÉ IMPORTAÇÃO",
+          "isFinal": false
         },
         {
-          "id": "pos-importacao",
-          "isFinal": false,
-          "label": "PÓS IMPORTAÇÃO"
+          "id": "1795702188830",
+          "label": "TREINAMENTO - FIBERDOCS - CONFIGURAÇÕES",
+          "isFinal": false
         },
         {
-          "id": "1795636898006",
-          "isFinal": false,
-          "label": "DAIANE"
+          "id": "1795702195134",
+          "label": "TREINAMENTO - FIBERDOCS - FILTROS E USABILIDADE",
+          "isFinal": false
         },
         {
-          "id": "1795637413848",
-          "label": "teste",
+          "id": "1795702201718",
+          "label": "TREINAMENTO - FIBERDOCS - DESENHO E EDITOR DE FUSÕES",
+          "isFinal": false
+        },
+        {
+          "id": "1795702206566",
+          "label": "TREINAMENTO - SALES - AUTOVIABILIDADE",
+          "isFinal": false
+        },
+        {
+          "id": "1795702212831",
+          "label": "TREINAMENTO - SALES - CONFIGURAÇÃO QUADRO KANBAN",
+          "isFinal": false
+        },
+        {
+          "id": "1795702223103",
+          "label": "TREINAMENTO - SALES - USABILIDADE QUADRO KANBAN E APP",
+          "isFinal": false
+        },
+        {
+          "id": "1795702229022",
+          "label": "TREINAMENTO - SALES - FILTROS E USABILIDADE",
+          "isFinal": false
+        },
+        {
+          "id": "1795702234583",
+          "label": "TREINAMENTO - SERVICE - CONFIGURAÇÕES",
+          "isFinal": false
+        },
+        {
+          "id": "1795702240055",
+          "label": "TREINAMENTO - SERVICE - SERVICE WEB",
+          "isFinal": false
+        },
+        {
+          "id": "1795702247398",
+          "label": "TREINAMENTO - SERVICE - SERVICE MOBILE",
+          "isFinal": false
+        },
+        {
+          "id": "1795702259702",
+          "label": "PÓS IMPORTAÇÃO - IXC PROVEDOR",
+          "isFinal": false
+        },
+        {
+          "id": "1795702269183",
+          "label": "PÓS IMPORTAÇÃO - FIBERDOCS",
+          "isFinal": false
+        },
+        {
+          "id": "1795702282703",
+          "label": "PÓS IMPLANTAÇÃO - FIBERDOCS",
+          "isFinal": false
+        },
+        {
+          "id": "1795702300271",
+          "label": "PÓS IMPLANTAÇÃO - SALES",
+          "isFinal": false
+        },
+        {
+          "id": "1795702306175",
+          "label": "PÓS IMPLANTAÇÃO - SERVICE",
+          "isFinal": false
+        },
+        {
+          "id": "1795702405584",
+          "label": "VALIDAÇÃO - CADASTROS",
+          "isFinal": false
+        },
+        {
+          "id": "1795702410983",
+          "label": "VALIDAÇÃO - CONTRATOS",
+          "isFinal": false
+        },
+        {
+          "id": "1795702512168",
+          "label": "VALIDAÇÃO - DASHBOARD",
+          "isFinal": false
+        },
+        {
+          "id": "1795702517088",
+          "label": "VALIDAÇÃO - ESTOQUE",
+          "isFinal": false
+        },
+        {
+          "id": "1795702535584",
+          "label": "VALIDAÇÃO - FINANCEIRO",
+          "isFinal": false
+        },
+        {
+          "id": "1795702552184",
+          "label": "VALIDAÇÃO - FISCAL",
+          "isFinal": false
+        },
+        {
+          "id": "1795702558808",
+          "label": "VALIDAÇÃO – INTEGRAÇÕES",
+          "isFinal": false
+        },
+        {
+          "id": "1795702563800",
+          "label": "VALIDAÇÃO – ATENDIMENTO/ORDEM DE SERVIÇO",
+          "isFinal": false
+        },
+        {
+          "id": "1795702568680",
+          "label": "VALIDAÇÃO - PROCESSOS",
+          "isFinal": false
+        },
+        {
+          "id": "1795702574832",
+          "label": "VALIDAÇÃO - RELATÓRIOS",
+          "isFinal": false
+        },
+        {
+          "id": "1795702636577",
+          "label": "VALIDAÇÃO – LOGINS",
+          "isFinal": false
+        },
+        {
+          "id": "1795702643241",
+          "label": "VALIDAÇÃO - PATRIMÔNIOS",
+          "isFinal": false
+        },
+        {
+          "id": "1795702648458",
+          "label": "VALIDAÇÃO – COMODATOS",
+          "isFinal": false
+        },
+        {
+          "id": "1795702658690",
+          "label": "VALIDAÇÃO - VENDAS",
+          "isFinal": false
+        },
+        {
+          "id": "1795702665729",
+          "label": "VALIDAÇÃO – ARQUIVOS",
+          "isFinal": false
+        },
+        {
+          "id": "1795702671737",
+          "label": "VALIDAÇÃO - MAPAS",
+          "isFinal": false
+        },
+        {
+          "id": "1795702678665",
+          "label": "VALIDAÇÃO – CONTAS A PAGAR/PAGAS",
+          "isFinal": false
+        },
+        {
+          "id": "1795702687385",
+          "label": "VALIDAÇÃO – FORNECEDORES",
+          "isFinal": false
+        },
+        {
+          "id": "1795702692436",
+          "label": "VALIDAÇÃO – PLANO DE VENDA/VELOCIDADE",
+          "isFinal": false
+        },
+        {
+          "id": "1795702697666",
+          "label": "VALIDAÇÃO – GERAL",
+          "isFinal": false
+        },
+        {
+          "id": "1795702817948",
+          "label": "ACOMPANHAMENTO - FIBERDOCS",
+          "isFinal": false
+        },
+        {
+          "id": "1795702827291",
+          "label": "ACOMPANHAMENTO - SALES",
+          "isFinal": false
+        },
+        {
+          "id": "1795702838227",
+          "label": "ACOMPANHAMENTO - SERVICE",
+          "isFinal": false
+        },
+        {
+          "id": "1795702845867",
+          "label": "AUDITORIA – ELABORAÇÃO DE AUDITORIA",
+          "isFinal": false
+        },
+        {
+          "id": "1795702852987",
+          "label": "AUDITORIA – APRESENTAÇÃO DE AUDITORIA",
+          "isFinal": false
+        },
+        {
+          "id": "1795702861612",
+          "label": "CHAVE API - FIBERDOCS",
+          "isFinal": false
+        },
+        {
+          "id": "1795702866251",
+          "label": "CHAVE API - SALES",
+          "isFinal": false
+        },
+        {
+          "id": "1795702871420",
+          "label": "CHAVE API - SERVICE",
+          "isFinal": false
+        },
+        {
+          "id": "1795702888309",
+          "label": "ACOMPANHAMENTO CLIENTE OPA",
+          "isFinal": false
+        },
+        {
+          "id": "1795702898900",
+          "label": "ALINHA DE PROJETO/PERSPECTIVA",
+          "isFinal": false
+        },
+        {
+          "id": "1795702908668",
+          "label": "DOCUMENTAÇÃO",
+          "isFinal": false
+        },
+        {
+          "id": "1795702915428",
+          "label": "ABERTURA DE CARTÕES – AJUSTE OFF",
+          "isFinal": false
+        },
+        {
+          "id": "1795702920652",
+          "label": "ABERTURA DE CARTÕES – FALHA IXC",
+          "isFinal": false
+        },
+        {
+          "id": "1795702926172",
+          "label": "ABERTURA DE CARTÕES - MELHORIAS IXC",
+          "isFinal": false
+        },
+        {
+          "id": "1795702934053",
+          "label": "IMPORTAÇÃO TESTE",
           "isFinal": false
         }
       ],
