@@ -1,4 +1,5 @@
 {
+  "publishedAt": 1795725013034,
   "productsData": {
     "inmap": {
       "etiquetasEmpresa": [
@@ -505,6 +506,11 @@
           "id": "1795721517414",
           "isFinal": false,
           "label": "vidaloka"
+        },
+        {
+          "id": "1795725010881",
+          "isFinal": false,
+          "label": "Vidaaaa22222"
         }
       ]
     },
