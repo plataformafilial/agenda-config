@@ -1,5 +1,5 @@
 {
-  "publishedAt": 1795725013034,
+  "publishedAt": 1795725283665,
   "productsData": {
     "inmap": {
       "etiquetasEmpresa": [
@@ -511,6 +511,11 @@
           "id": "1795725010881",
           "isFinal": false,
           "label": "Vidaaaa22222"
+        },
+        {
+          "id": "1795725280886",
+          "isFinal": false,
+          "label": "fodaaaaa"
         }
       ]
     },
