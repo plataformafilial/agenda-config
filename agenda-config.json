@@ -1,5 +1,5 @@
 {
-  "publishedAt": 1795780788648,
+  "publishedAt": 1795784459842,
   "productsData": {
     "inmap": {
       "etiquetasEmpresa": [
@@ -408,11 +408,6 @@
           "label": "CHAVE API - SERVICE"
         },
         {
-          "id": "1795702888309",
-          "isFinal": false,
-          "label": "ACOMPANHAMENTO CLIENTE OPA"
-        },
-        {
           "id": "1795702898900",
           "isFinal": false,
           "label": "ALINHA DE PROJETO/PERSPECTIVA"
@@ -511,6 +506,11 @@
           "id": "1795725010881",
           "isFinal": false,
           "label": "PDI"
+        },
+        {
+          "id": "1795784457289",
+          "isFinal": false,
+          "label": "ACOMPANHAMENTO CLIENTE OPA"
         }
       ]
     },
