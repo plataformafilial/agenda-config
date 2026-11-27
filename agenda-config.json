@@ -1,5 +1,5 @@
 {
-  "publishedAt": 1795725283665,
+  "publishedAt": 1795780788648,
   "productsData": {
     "inmap": {
       "etiquetasEmpresa": [
@@ -446,76 +446,71 @@
       "minhasEtiquetas": [
         {
           "id": "soft-day",
-          "label": "Soft Day"
+          "label": "PESSOAL"
         },
         {
           "id": "doc",
-          "label": "Documentação"
+          "label": "SOFT DAY"
         },
         {
           "id": "outros-ev",
-          "label": "Outros eventos"
+          "label": "FERIADO"
         },
         {
           "id": "intervalo",
-          "label": "Intervalo"
+          "label": "FOLGA"
         },
         {
           "id": "gin-laboral",
-          "label": "Ginástica Laboral"
+          "label": "INTERVALO"
         },
         {
           "id": "folga",
-          "label": "Folga"
+          "label": "GINÁSTICA LABORAL"
         },
         {
           "id": "feriado",
-          "label": "Feriado"
+          "label": "DAILY"
         },
         {
           "id": "reun-int",
-          "label": "Reuniões internas"
+          "label": "REUNIÕES INTERNAS"
         },
         {
           "id": "capacit",
-          "label": "Capacitações"
+          "label": "CAPACITAÇÕES – INTERNAS"
         },
         {
           "id": "feedbacks",
-          "label": "Feedbacks"
+          "label": "CAPACITAÇÕES – MINISTRADAS"
         },
         {
           "id": "cursos",
-          "label": "Cursos"
+          "label": "CAPACITAÇÕES - PARTICIPANTE"
         },
         {
           "id": "daily",
-          "label": "Daily"
+          "label": "CAPACITAÇÕES - EAD"
         },
         {
           "id": "1795704386480",
           "isFinal": false,
-          "label": "Diogo"
+          "label": "FEEDBACKS"
         },
         {
           "id": "1795715429969",
           "isFinal": false,
-          "label": "Carinaaaaaaaaaaaaaaaaaaa"
+          "label": "TESTES EM BASE"
         },
         {
           "id": "1795721517414",
           "isFinal": false,
-          "label": "vidaloka"
+          "label": "AUTOMAÇÃO/JIRA"
         },
         {
           "id": "1795725010881",
           "isFinal": false,
-          "label": "Vidaaaa22222"
-        },
-        {
-          "id": "1795725280886",
-          "isFinal": false,
-          "label": "fodaaaaa"
+          "label": "PDI"
         }
       ]
     },
