@@ -1,5 +1,5 @@
 {
-  "publishedAt": 1795784886749,
+  "publishedAt": 1795785572992,
   "productsData": {
     "inmap": {
       "etiquetasEmpresa": [
@@ -500,7 +500,7 @@
         {
           "id": "1795721517414",
           "isFinal": false,
-          "label": "AUTOMAÇÃO/JIRA"
+          "label": "AUTOMAÇÃO/JIRA/EXTENSÃO"
         },
         {
           "id": "1795725010881",
