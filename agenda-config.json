@@ -1,5 +1,5 @@
 {
-  "publishedAt": 1795784631547,
+  "publishedAt": 1795784886749,
   "productsData": {
     "inmap": {
       "etiquetasEmpresa": [
@@ -453,7 +453,7 @@
         },
         {
           "id": "intervalo",
-          "label": "DAY OFF"
+          "label": "FOLGA"
         },
         {
           "id": "gin-laboral",
